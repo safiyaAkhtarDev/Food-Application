@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="@dimen/_5sdp"
+    android:weightSum="4"
+    android:layout_marginBottom="@dimen/_5sdp"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+<androidx.appcompat.widget.AppCompatImageView
+    android:id="@+id/img_itemImage"
+    android:layout_width="@dimen/_50sdp"
+    android:layout_weight=".2"
+    android:layout_height="@dimen/_50sdp"
+    android:fitsSystemWindows="true"
+    android:scaleType="fitXY"></androidx.appcompat.widget.AppCompatImageView>
+<androidx.appcompat.widget.AppCompatTextView
+    android:id="@+id/txt_itemname"
+    android:layout_width="0dp"
+    android:paddingEnd="@dimen/_5sdp"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/_12sdp"
+    android:layout_weight="2.7"
+    android:layout_marginStart="@dimen/_10sdp"
+    android:layout_gravity="center_vertical"
+    android:fontFamily="@font/rubicmedium"
+    android:textColor="@color/colorTxtBlack"
+    android:text="@string/item_name"></androidx.appcompat.widget.AppCompatTextView>
+<androidx.appcompat.widget.AppCompatTextView
+    android:id="@+id/txt_price"
+    android:layout_weight="1.05"
+    android:layout_width="0dp"
+    android:paddingStart="@dimen/_2sdp"
+    android:gravity="center_horizontal"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/_12sdp"
+    android:layout_gravity="center_vertical"
+    android:fontFamily="@font/rubicmedium"
+    android:textColor="@color/colorTxtBlack"
+    android:text="@string/_40_usd"></androidx.appcompat.widget.AppCompatTextView>
+<androidx.appcompat.widget.AppCompatImageView
+    android:id="@+id/img_close"
+    android:layout_weight=".05"
+    android:layout_width="@dimen/_15sdp"
+    android:layout_height="@dimen/_15sdp"
+    android:padding="@dimen/_3sdp"
+
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/btn_close_rounded"
+    android:layout_marginStart="@dimen/_10sdp"
+    android:src="@drawable/img_close"></androidx.appcompat.widget.AppCompatImageView>
+</LinearLayout>

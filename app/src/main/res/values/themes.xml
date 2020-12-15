@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Theme.MyTabLayout" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorTxtGreyLight</item>
+        <item name="colorPrimaryDark">@color/colorTxtGreyMid</item>
+        <item name="colorAccent">@color/colorTxtBlue</item>
+    </style>
+</resources>

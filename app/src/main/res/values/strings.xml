@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DinDinn Assigment</string>
+    <string name="filters">FILTERS</string>
+    <string name="spicy">Spicy</string>
+    <string name="vegan">Vegan</string>
+    <string name="delux">Delux</string>
+    <string name="tags">tags</string>
+    <string name="_150_grm_30cm">150 gram, 30cm</string>
+    <string name="_40_usd">40 usd</string>
+    <string name="deluxe">Deluxe</string>
+    <string name="quarreto_maggi">QUATTRO FORMAGGI</string>
+    <string name="salami">SALAMI</string>
+    <string name="margaritta">MARGHERITA</string>
+    <string name="cheese">CHEESE</string>
+    <string name="egoist">The Egoist</string>
+    <string name="rolls">Sushi Rolls</string>
+    <string name="menu">Menu</string>
+    <string name="item_name">Item name</string>
+    <string name="delivery_is_free">Delivery is Free</string>
+    <string name="_166_usd">166 usd</string>
+    <string name="value">Value :</string>
+    <string name="tag1"><![CDATA[<p>chicken, hams, peperroni, tomato sauce,<span style=\'color:red\'> spicy chorrizo </span> and mozzerilla</p>]]></string>
+    <string name="tag2"><![CDATA[<p>Fresh mozzarella, basil, gorgonzola, garlic, extra virgin olive oil, house cheese, grana padano.</p>]]></string>
+    <string name="tagsalami"><![CDATA[<p>Tomato sauce, fresh mozzarella, salami, basil, grana padano.</p>]]></string>
+    <string name="tagmar"><![CDATA[<p>Tomato sauce, fresh mozzarella, basil, extra virgin olive oil, grana padano.</p>]]></string>
+    <string name="tagcheese"><![CDATA[<p>Tomato sauce, diced mozzarella, grana padano.</p>]]></string>
+    <string name="sushitag"><![CDATA[<p>Cucumber, Asparagus, Avocado, Lettuce, Cooked Carrot, Shiso and esame Dressing</p>]]></string>
+    <string name="tagsushirolls"><![CDATA[<p>6 pieces of Crispy Tempura Sushi Rice topped with Spicy Tuna Tartar, avocado, jalapeno, tobiko and sweet sauce.</p>]]></string>
+    <string name="shalmonsushi">Shalmon Sushi</string>
+    <string name="tagsushi"><![CDATA[<p>Bok choy, wasabi tobiko, shiitake mushroom, otoshi and ponzu sauce]]></string>
+    <string name="tagshushis"><![CDATA[<p>Asparagus and mushrooms sautéed in a sake garlic-butter</p>]]></string>
+    <string name="shushi">Sushi</string>
+    <string name="preference_file_key">DinDinnPref</string>
+    <string name="cart_count">cartCount</string>
+</resources>

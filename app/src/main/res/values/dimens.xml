@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="collapse_tab_height">2dp</dimen>
+
+</resources>
